@@ -12,9 +12,9 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Ephira Clothing Brand",
+    title: "Ariye Watch Store",
     description:
-      "Stylish fitnesswear that looks good in and out of the gym. Combines performance materials with elevated streetwear design.",
+      "Stylish watches that look good in and out of the gym. Combines performance materials with elevated streetwear design.",
     image: "/placeholder.svg?height=400&width=600",
     category: "Fashion",
     technologies: ["Design", "Branding", "E-commerce", "Marketing"],
