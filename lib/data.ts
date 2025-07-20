@@ -18,8 +18,8 @@ export const projects: Project[] = [
     image: "/placeholder.svg?height=400&width=600",
     category: "Fashion",
     technologies: ["Design", "Branding", "E-commerce", "Marketing"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com/YourUsername",
+    demoUrl: "https://ariye.vercel.app/",
+    githubUrl: "https://github.com/thedroidbrand/",
   },
   {
     id: 2,
