@@ -28,7 +28,7 @@ export default function AboutPage() {
           >
             <div className="relative w-full max-w-md mx-auto aspect-square rounded-2xl overflow-hidden border-4 border-primary/30 glow-box">
               <Image
-                src="/placeholder.svg?height=500&width=500"
+                src="/MyPicture.jpg?height=500&width=500"
                 alt="Your Name"
                 fill
                 className="object-cover"
@@ -72,10 +72,10 @@ export default function AboutPage() {
                 </Link>
               </Button>
               <Button asChild variant="outline">
-                <Link href="/resume">
+                <a href="/Resume.pdf" download >
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
-                </Link>
+                </a>
               </Button>
             </div>
 
@@ -83,7 +83,7 @@ export default function AboutPage() {
               <h3 className="text-xl font-bold mb-4">Connect With Me</h3>
               <div className="flex space-x-4">
                 <Link
-                  href="https://github.com/yourusername"
+                  href="https://github.com/thedroidbrand"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-card hover:bg-primary/10 p-3 rounded-full transition-colors"
@@ -91,7 +91,7 @@ export default function AboutPage() {
                   <Github className="h-6 w-6" />
                 </Link>
                 <Link
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://linkedin.com/in/seyifunmiadeojo"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-card hover:bg-primary/10 p-3 rounded-full transition-colors"
@@ -99,7 +99,7 @@ export default function AboutPage() {
                   <Linkedin className="h-6 w-6" />
                 </Link>
                 <Link
-                  href="https://twitter.com/yourusername"
+                  href="https://twitter.com/notunknownseyi"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-card hover:bg-primary/10 p-3 rounded-full transition-colors"
@@ -127,10 +127,7 @@ export default function AboutPage() {
               "JavaScript",
               "React",
               "Next.js",
-              "OpenAI API",
-              "UI/UX Design",
               "SQLite",
-              "Fashion Design",
               "Brand Development",
               "Problem Solving",
               "Creative Thinking",
