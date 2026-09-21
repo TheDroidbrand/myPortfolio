@@ -40,7 +40,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center">
-            <span className="text-xl font-orbitron font-bold text-primary glow">Seyi</span>
+            <span className="text-xl font-orbitron font-bold text-primary glow">Seyifunmi Adeojo</span>
           </Link>
 
           {/* Desktop Navigation */}
