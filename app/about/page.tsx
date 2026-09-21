@@ -45,19 +45,18 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold mb-4">
               Hi, I'm <span className="text-primary">Seyi</span>
             </h2>
-            <h3 className="text-xl text-muted-foreground mb-6">Creative Problem-Solver & Developer</h3>
+            <h3 className="text-xl text-muted-foreground mb-6">Creative Problem-Solver, Financial Engineer & Developer</h3>
             <div className="space-y-4 text-lg">
               <p>
                 I'm a creative problem-solver who's never satisfied with boring. I build tools, brands, and games that
                 are functional, fun, and a little unexpected.
               </p>
               <p>
-                Whether it's fashion that feels futuristic or an AI bot that helps students learn, I'm all about turning
+                Whether it's fashion that feels futuristic or an AI bot that helps students learn, or even trading, I'm all about turning
                 ideas into beautifully chaotic reality.
               </p>
               <p>
-                My current projects include <span className="text-secondary">Ephira</span> (fitnesswear designed for the
-                gym and the glow-up after), an <span className="text-primary">AI Educational Chatbot</span> (a smart
+                My current projects include <span className="text-secondary">Ariye</span> (watches designed for people who don't just want to tell time but tell a story), an <span className="text-primary">AI Educational Chatbot</span> (a smart
                 assistant for students, powered by Django and OpenAI), and a{" "}
                 <span className="text-primary">Memory Match Game</span> (a fun brain teaser for devs, coming soon to
                 this site).
@@ -99,7 +98,7 @@ export default function AboutPage() {
                   <Linkedin className="h-6 w-6" />
                 </Link>
                 <Link
-                  href="https://twitter.com/notunknownseyi"
+                  href="https://twitter.com/duodendride"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-card hover:bg-primary/10 p-3 rounded-full transition-colors"
@@ -130,7 +129,7 @@ export default function AboutPage() {
               "SQLite",
               "Brand Development",
               "Problem Solving",
-              "Creative Thinking",
+              "Financial Engineering",
             ].map((skill, index) => (
               <div
                 key={index}
