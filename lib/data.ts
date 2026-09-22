@@ -18,7 +18,7 @@ export const projects: Project[] = [
     image: "/placeholder.svg?height=400&width=600",
     category: "Fashion",
     technologies: ["Design", "Branding", "E-commerce", "Marketing"],
-    demoUrl: "https://ariye.vercel.app/",
+    demoUrl: "https://ariye.com.ng/",
     githubUrl: "https://github.com/thedroidbrand/",
   },
   {
@@ -76,6 +76,20 @@ export const education = [
     date: "2020 - 2024",
     description:
       "Acquired my bachelors degree in Software Engineering from Lead City University .",
+  },
+  {
+    degree: "Master of Science: Financial Engineering",
+    institution: "World Quant University",
+    date: "In Progress",
+    description:
+      "Working on getting my masters degree in financial engineering",
+  },
+  {
+    degree: "Associate Degree: Business Administration ",
+    institution: "University of the People ",
+    date: "In Progress",
+    description:
+      "Working on getting my associate degree in business administration",
   },
 ]
 
