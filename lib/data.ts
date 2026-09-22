@@ -15,7 +15,7 @@ export const projects: Project[] = [
     title: "Ariye Watch Store",
     description:
       "Stylish watches that look good in and out of the gym. Combines performance materials with elevated streetwear design.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/ariye.jpg?height=400&width=600",
     category: "Fashion",
     technologies: ["Design", "Branding", "E-commerce", "Marketing"],
     demoUrl: "https://ariye.com.ng/",
