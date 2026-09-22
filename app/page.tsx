@@ -62,13 +62,13 @@ export default function Home() {
               transition={{ duration: 0.5, delay: 0.1 }}
               className="bg-card p-8 rounded-lg border hover:border-primary transition-colors"
             >
-              <div className="bg-primary/10 p-3 rounded-full w-fit mb-6">
-                <Globe className="h-8 w-8 text-primary" />
+              <div className="bg-secondary/10 p-3 rounded-full w-fit mb-6">
+                <Code className="h-8 w-8 text-secondary" />
               </div>
-              <h3 className="text-xl font-bold mb-3">Fashion Design</h3>
+              <h3 className="text-xl font-bold mb-3">Tech Development</h3>
               <p className="text-muted-foreground">
-                Creating stylish fitnesswear that looks good in and out of the gym, combining performance with elevated
-                streetwear design.
+                Building AI-powered educational tools that make learning programming interactive and engaging for
+                students.
               </p>
             </motion.div>
 
@@ -79,13 +79,13 @@ export default function Home() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="bg-card p-8 rounded-lg border hover:border-secondary transition-colors"
             >
-              <div className="bg-secondary/10 p-3 rounded-full w-fit mb-6">
-                <Code className="h-8 w-8 text-secondary" />
+              <div className="bg-primary/10 p-3 rounded-full w-fit mb-6">
+                <Globe className="h-8 w-8 text-primary" />
               </div>
-              <h3 className="text-xl font-bold mb-3">Tech Development</h3>
+              <h3 className="text-xl font-bold mb-3">Fashion Design</h3>
               <p className="text-muted-foreground">
-                Building AI-powered educational tools that make learning programming interactive and engaging for
-                students.
+                Creating stylish fitnesswear that looks good in and out of the gym, combining performance with elevated
+                streetwear design.
               </p>
             </motion.div>
 
