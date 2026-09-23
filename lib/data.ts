@@ -41,7 +41,7 @@ export const projects: Project[] = [
     category: "Game",
     technologies: ["React", "Next.js", "Tailwind CSS", "JavaScript"],
     demoUrl: "/game",
-    githubUrl: "https://github.com/YourUsername",
+    githubUrl: "https://github.com/thedroidbrand/",
   },
 ]
 
