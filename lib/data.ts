@@ -55,10 +55,10 @@ export const experience = [
   },
   {
     title: "Fashion Brand Founder",
-    company: "Ephira",
+    company: "Ariye",
     date: "2024 - Present",
     description:
-      "Designing and developing a fitnesswear brand that combines functionality with style. Managing branding, marketing, and product design.",
+      "Designing and developing stylish watches that look good in and out of the gym. Combines performance materials with elevated streetwear design.. Managing branding, marketing, and product design.",
   },
 ]
 
