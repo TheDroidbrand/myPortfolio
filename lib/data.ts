@@ -30,7 +30,7 @@ export const projects: Project[] = [
     category: "Tech",
     technologies: ["Django", "JavaScript", "OpenAI API", "SQLite"],
     demoUrl: "https://example.com",
-    githubUrl: "https://github.com/YourUsername",
+    githubUrl: "https://github.com/thedroidbrand/",
   },
   {
     id: 3,
