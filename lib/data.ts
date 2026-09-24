@@ -21,17 +21,7 @@ export const projects: Project[] = [
     demoUrl: "https://ariye.com.ng/",
     githubUrl: "https://github.com/thedroidbrand/",
   },
-  {
-    id: 2,
-    title: "AI Educational Chatbot",
-    description:
-      "Helps middle and high school students learn programming interactively. Features adaptive learning, gamified quizzes, and a natural language interface.",
-    image: "/placeholder.svg?height=400&width=600",
-    category: "Tech",
-    technologies: ["Django", "JavaScript", "OpenAI API", "SQLite"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com/thedroidbrand/",
-  },
+  
   {
     id: 3,
     title: "Memory Match – Tech Stack Edition",
