@@ -54,7 +54,7 @@ export const experience = [
       "Building full-stack projects with a focus on AI integration and educational tools. Developing interactive applications that make learning programming fun.",
   },
   {
-    title: "Fashion Brand Founder",
+    title: "Wrist Watch Brand Founder",
     company: "Ariye",
     date: "2024 - Present",
     description:
