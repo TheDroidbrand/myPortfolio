@@ -23,7 +23,7 @@ export const projects: Project[] = [
   },
   
   {
-    id: 3,
+    id: 2,
     title: "Memory Match – Tech Stack Edition",
     description:
       "Matching game for developers where you pair logos with their names. Simple, fun, and a challenge for the brain.",
