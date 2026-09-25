@@ -101,7 +101,7 @@ export default function ResumePage() {
               "Framer Motion",
               "Git",
               "Responsive Design",
-              "UI/UX Design",
+              "Financial Engineering",
               "RESTful APIs",
             ].map((skill, index) => (
               <div
