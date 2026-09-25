@@ -102,7 +102,6 @@ export default function ResumePage() {
               "Git",
               "Responsive Design",
               "Financial Engineering",
-              "RESTful APIs",
             ].map((skill, index) => (
               <div
                 key={index}
