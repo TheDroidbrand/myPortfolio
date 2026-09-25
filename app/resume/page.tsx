@@ -20,7 +20,7 @@ export default function ResumePage() {
           <div className="h-1 w-20 bg-primary mx-auto rounded-full"></div>
           <div className="mt-8">
             <Button asChild>
-              <a href="/resume.pdf" download>
+              <a href="/Resume.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
