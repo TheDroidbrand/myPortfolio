@@ -100,7 +100,6 @@ export default function ResumePage() {
               "Tailwind CSS",
               "Framer Motion",
               "Git",
-              "Responsive Design",
               "Financial Engineering",
             ].map((skill, index) => (
               <div
