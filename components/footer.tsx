@@ -12,7 +12,7 @@ export default function Footer() {
 
           <div className="flex space-x-6">
             <Link
-              href="https://github.com/YourUsername"
+              href="https://github.com/thedroidbrand/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
