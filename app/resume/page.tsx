@@ -22,7 +22,7 @@ export default function ResumePage() {
             <Button asChild>
               <a href="/Resume.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
-                Download Resume
+                Download My Resume
               </a>
             </Button>
           </div>
