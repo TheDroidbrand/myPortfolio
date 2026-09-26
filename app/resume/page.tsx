@@ -101,7 +101,7 @@ export default function ResumePage() {
               "Framer Motion",
               "Git",
               "CI/CD Pipeline",
-              "P",
+              "Project Management",
               "Financial Engineering",
             ].map((skill, index) => (
               <div
