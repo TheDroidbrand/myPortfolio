@@ -28,7 +28,7 @@ export default function ProjectsPage() {
           <h1 className="text-4xl sm:text-5xl font-bold mb-4">My Projects</h1>
           <div className="h-1 w-20 bg-primary mx-auto rounded-full"></div>
           <p className="text-xl text-muted-foreground mt-4 max-w-2xl mx-auto">
-            A collection of my recent work and personal projects
+            A collection of some of my recent work and personal projects
           </p>
         </motion.div>
 
