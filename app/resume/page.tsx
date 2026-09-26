@@ -100,7 +100,8 @@ export default function ResumePage() {
               "Tailwind CSS",
               "Framer Motion",
               "Git",
-              "CI/CD",
+              "CI/CD Pipeline",
+              "P",
               "Financial Engineering",
             ].map((skill, index) => (
               <div
